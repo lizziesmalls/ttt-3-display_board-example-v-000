@@ -2,12 +2,11 @@
 
 puts "Welcome to Tic Tac Toe"
 
-display_board {
-
+def display_board
 puts
   "   |   |   ",
   "-----------",
   "   |   |   ",
   "-----------",
   "   |   |   "
-}
+end
