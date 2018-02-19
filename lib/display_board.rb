@@ -5,6 +5,5 @@ puts "Welcome to Tic Tac Toe",
   "-----------",
   "   |   |   ",
   "-----------",
-  "   |   |   ",
-  "What move would X like to make? (1-9)"
-  
+  "   |   |   "
+    
