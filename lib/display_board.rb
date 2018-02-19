@@ -9,3 +9,5 @@ print "   |   |   "
 print "-----------"
 print "   |   |   "
 end
+
+display_board
