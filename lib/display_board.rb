@@ -3,12 +3,12 @@
 puts "Welcome to Tic Tac Toe"
 
 def display_board
-print "   |   |   "
-print "-----------"
-print "   |   |   "
-print "-----------"
-print "   |   |   "
+puts
+  "   |   |   "
+  "-----------"
+  "   |   |   "
+  "-----------"
+  "   |   |   "
 end
 
 display_board
-
